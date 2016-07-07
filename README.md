@@ -1,2 +1,3 @@
-# suggestions-storeland
-Подсказки DaData.ru для Storeland
+# Подсказки DaData.ru для Storeland
+
+Здесь будет инструкция по подключению.
