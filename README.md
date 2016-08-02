@@ -7,6 +7,7 @@
 Инструкция по подключению подсказок DaData.ru к платформе [StoreLand](http://storeland.ru/):
 
 1. Открыть редактор шаблонов: `http://код_магазина.storeland.ru/admin/site_templates`.
+![image](screenshots/2point.png)
 
 2. Выбрать подраздел Шаблоны > HTML.
 
@@ -36,6 +37,7 @@
 <script type="text/javascript" src="https://cdn.rawgit.com/hflabs/suggestions-storeland/0.1.0/init.js"></script>
 <!-- /dadata.ru -->
 ```
+![image](screenshots/jsjs.png)
 Вместо `ВАШ_API_КЛЮЧ` укажите ваш API-ключ на DaData.ru. Чтобы получить ключ,  [зарегистрируйтесь](https://dadata.ru/#registration_popup) и сгенерируйте ключ в [личном кабинете](https://dadata.ru/profile/#info).
 
 После регистрации подтвердите e-mail адрес, иначе подсказки не будут работать.
