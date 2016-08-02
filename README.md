@@ -13,13 +13,11 @@
 <link href="https://cdn.jsdelivr.net/jquery.suggestions/16.6/css/suggestions.css" type="text/css" rel="stylesheet" />
 ```
 ![image](screenshots/css.png)
-
 4. Добавить ссылку на js-файл Подсказок в конец шаблона:
 ```
 <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.suggestions/16.6/js/jquery.suggestions.min.js"></script>
 ```
 ![image](screenshots/js.png)
-
 5. Добавить код инициализации подсказок в конец шаблона (под результат из шага 4):
 ```
 <script type="text/javascript">
