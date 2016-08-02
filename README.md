@@ -2,6 +2,8 @@
 
 Подсказки DaData.ru для Storeland — удобный способ ввести ФИО, адрес и e-mail на форме заказа и в профиле клиента.
 
+<img src="screenshots/result.png" width="600">
+
 Инструкция по подключению подсказок DaData.ru к платформе [StoreLand](http://storeland.ru/):
 
 1. Открыть редактор шаблонов: `http://код_магазина.storeland.ru/admin/site_templates`.
