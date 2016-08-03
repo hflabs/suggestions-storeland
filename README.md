@@ -7,9 +7,9 @@
 Инструкция по подключению подсказок DaData.ru к платформе [StoreLand](http://storeland.ru/):
 
 1. Открыть редактор шаблонов: `http://код_магазина.storeland.ru/admin/site_templates`.
-![image](screenshots/2point.png)
 
 2. Выбрать подраздел Шаблоны > HTML.
+![image](screenshots/2point.png)
 
 3. Добавить ссылку на css-файл Подсказок в блок «Стили магазина»:
 ```
