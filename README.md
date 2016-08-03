@@ -17,7 +17,7 @@
 <link href="https://cdn.jsdelivr.net/jquery.suggestions/16.6/css/suggestions.css" type="text/css" rel="stylesheet" />
 <!-- /dadata.ru -->
 ```
-![image](screenshots/css.png)
+![image](screenshots/css.png)<br><br>
 4. Добавить ссылку на js-файл Подсказок в конец шаблона:
 ```
 <!-- dadata.ru -->
@@ -27,7 +27,7 @@
 <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.suggestions/16.6/js/jquery.suggestions.min.js"></script>
 <!-- /dadata.ru -->
 ```
-![image](screenshots/js.png)
+![image](screenshots/js.png)<br><br>
 5. Добавить код инициализации подсказок в конец шаблона (под результат из шага 4):
 ```
 <!-- dadata.ru -->
