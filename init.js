@@ -14,7 +14,7 @@
   var fields = {
     name: ["reg_name", "feedback_name", "callback_person"],
     email: ["contactEmail", "sites_client_mail", "feedback_email", "email"],
-    address: ["deliveryAddress", "quickDeliveryAddress", "sites_client_addr"]
+    address: ["deliveryAddress", "quickDeliveryAddress", "quickDeliveryAddressStreet", "sites_client_addr"]
   };
   var deliveryAddressSelectors = "#quickDeliveryAddress, #quickDeliveryAddressStreet, #deliveryAddress";
   var deliveryCitySelectors = "#quickDeliveryCity, #deliveryCity";
