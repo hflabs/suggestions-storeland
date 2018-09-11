@@ -14,7 +14,7 @@
 3. Добавить ссылку на css-файл Подсказок в блок «Стили магазина»:
 ```
 <!-- dadata.ru -->
-<link href="https://cdn.jsdelivr.net/npm/suggestions-jquery@17.5.0/dist/css/suggestions.min.css" type="text/css" rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/npm/suggestions-jquery@18.8.0/dist/css/suggestions.min.css" type="text/css" rel="stylesheet" />
 <!-- /dadata.ru -->
 ```
 ![image](screenshots/css.png)<br><br>
@@ -24,7 +24,7 @@
 <!--[if lt IE 10]>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.1/jquery.xdomainrequest.min.js"></script>
 <![endif]-->
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/suggestions-jquery@17.5.0/dist/js/jquery.suggestions.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/suggestions-jquery@18.8.0/dist/js/jquery.suggestions.min.js"></script>
 <!-- /dadata.ru -->
 ```
 ![image](screenshots/js.png)<br><br>
@@ -34,7 +34,7 @@
 <script type="text/javascript">
   window.DADATA_TOKEN = "ВАШ_API_КЛЮЧ";
 </script>
-<script type="text/javascript" src="https://cdn.rawgit.com/hflabs/suggestions-storeland/0.2.0/init.js"></script>
+<script type="text/javascript" src="https://cdn.rawgit.com/hflabs/suggestions-storeland/0.2.1/init.js"></script>
 <!-- /dadata.ru -->
 ```
 ![image](screenshots/jsjs.png)
