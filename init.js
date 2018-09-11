@@ -16,6 +16,7 @@
         address: [
             "deliveryAddress",
             "quickDeliveryAddress",
+            "quickDeliveryAddressStreet",
             "sites_client_addr"
         ]
     };
