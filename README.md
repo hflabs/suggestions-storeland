@@ -34,7 +34,7 @@
 <script type="text/javascript">
   window.DADATA_TOKEN = "ВАШ_API_КЛЮЧ";
 </script>
-<script type="text/javascript" src="https://cdn.rawgit.com/hflabs/suggestions-storeland/0.2.1/init.js"></script>
+<script type="text/javascript" src="https://cdn.rawgit.com/hflabs/suggestions-storeland/0.2.2/init.js"></script>
 <!-- /dadata.ru -->
 ```
 ![image](screenshots/jsjs.png)
