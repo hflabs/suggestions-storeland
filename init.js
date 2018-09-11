@@ -16,7 +16,7 @@
     email: ["contactEmail", "sites_client_mail", "feedback_email", "email"],
     address: ["deliveryAddress", "quickDeliveryAddress", "sites_client_addr"]
   };
-  var deliveryAddressSelectors = "#quickDeliveryAddress, #deliveryAddress";
+  var deliveryAddressSelectors = "#quickDeliveryAddress, #quickDeliveryAddressStreet, #deliveryAddress";
   var deliveryCitySelectors = "#quickDeliveryCity, #deliveryCity";
   var deliveryPostalSelectors = "#quickDeliveryZipCode, #deliveryZipCode";
 
