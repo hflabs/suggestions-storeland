@@ -2,7 +2,6 @@
 
 (function($, TOKEN) {
     // do not change below this line
-    var SERVICE_URL = "https://suggestions.dadata.ru/suggestions/api/4_1/rs";
     var PARTNER = "STORELAND";
     var AJAX_DELAY_MS = 2000;
     var QUICK_ORDER_BTN_ID = "#startOrder";
@@ -55,7 +54,6 @@
     function initSuggestionsForType(type, idList) {
         executeEach(idList, function($el) {
             $el.suggestions({
-                serviceUrl: SERVICE_URL,
                 token: TOKEN,
                 partner: PARTNER,
                 type: type.toUpperCase()
@@ -97,7 +95,6 @@
     function suggestCity(cityList, addressList, postalList) {
         executeEach(cityList, function($city) {
             $city.suggestions({
-                serviceUrl: SERVICE_URL,
                 token: TOKEN,
                 partner: PARTNER,
                 type: "ADDRESS",

@@ -1,0 +1,23 @@
+{
+    "name": "suggestions-storeland",
+    "version": "0.3.0",
+    "description": "DaData.ru suggestions Storeland module",
+    "main": "init.js",
+    "scripts": {
+        "test": "echo \"Nope\" && exit 0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hflabs/suggestions-storeland.git"
+    },
+    "keywords": [
+        "dadata",
+        "storeland"
+    ],
+    "author": "HFLabs",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hflabs/suggestions-storeland/issues"
+    },
+    "homepage": "https://github.com/hflabs/suggestions-storeland#readme"
+}
